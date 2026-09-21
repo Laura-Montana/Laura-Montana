@@ -1,6 +1,6 @@
 # Hola, soy Laura Montaña
 
-Estudio Ingeniería de Sistemas en la Universidad Libre (Bogotá) y me interesa construir cosas con Python: APIs, automatización y análisis de datos. También hago parte del semillero de investigación SENSORAMA, donde trabajamos en seguridad en blockchain y monitoreo predictivo con IA.
+Estudio Ingeniería de Sistemas en la Universidad Libre (Bogotá) y me interesa construir soluciones con Python; otras tecnologias y análisis de datos. También hago parte del semillero de investigación SENSORAMA, donde trabajamos en seguridad en blockchain y monitoreo predictivo con IA.
 
 ## Proyectos
 
